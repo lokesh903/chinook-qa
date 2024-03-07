@@ -1,0 +1,5 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.env
+t_shirt_sales_llm.ipynb
